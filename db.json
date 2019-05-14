@@ -25,9 +25,15 @@
       }
     },
     {
-      "color": "green",
+      "color": "primaryGreen",
       "code": {
         "rgb": [0,255,0]
+      }
+    },
+    {
+      "color": "green",
+      "code": {
+        "rgb": [0,128,0]
       }
     },
     {
