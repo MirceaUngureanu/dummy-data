@@ -1,1 +1,1 @@
-# dummy-data
+# Colection of dummy data for testing
