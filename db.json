@@ -1,56 +1,33 @@
 {
   "colors": [
     {
-      "color": "black",
-      "category": "hue",
-      "type": "primary",
+      "color": "white",
       "code": {
-        "rgb": [255,255,255],
-        "hex": "#000"
+        "rgb": [255,255,255]
       }
     },
     {
-      "color": "white",
-      "category": "value",
+      "color": "black",
       "code": {
-        "rgb": [0,0,0],
-        "hex": "#FFF"
+        "rgb": [0,0,0]
       }
     },
     {
       "color": "red",
-      "category": "hue",
-      "type": "primary",
       "code": {
-        "rgb": [255,0,0],
-        "hex": "#FF0"
+        "rgb": [255,0,0]
       }
     },
     {
       "color": "blue",
-      "category": "hue",
-      "type": "primary",
       "code": {
-        "rgb": [0,0,255],
-        "hex": "#00F"
-      }
-    },
-    {
-      "color": "yellow",
-      "category": "hue",
-      "type": "primary",
-      "code": {
-        "rgb": [255,255,0],
-        "hex": "#FF0"
+        "rgb": [0,0,255]
       }
     },
     {
       "color": "green",
-      "category": "hue",
-      "type": "secondary",
       "code": {
-        "rgb": [0,255,0],
-        "hex": "#0F0"
+        "rgb": [0,255,0]
       }
     }
   ]
